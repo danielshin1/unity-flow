@@ -15,4 +15,5 @@ public class Translate : MonoBehaviour
     {
         this.transform.Translate(0f * Time.deltaTime, 0f * Time.deltaTime, 10f * Time.deltaTime, Space.World);
     }
+
 }
